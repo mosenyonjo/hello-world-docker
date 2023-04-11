@@ -1,4 +1,4 @@
 # HelloWorldDocker
-A simple Hello World application that runs on Docker. 
+A simple Hello World demoo application that runs on Docker. 
 
 
